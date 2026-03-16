@@ -20,10 +20,10 @@ This program stores student names and their marks in a dictionary. The user ente
 🔹 Code
 
 students = {
-    "Shraddha": 95,
+    "Shraddha": 97,
     "Shreya": 88,
     "Monika": 50,
-    "Liza": 81
+  
 }
 
 name = input("Enter the student's name: ")
@@ -42,7 +42,7 @@ Enter the student's name: Shraddha
 
 🔹 Sample Output
 
-Shraddha's marks: 95
+Shraddha's marks: 97
 
 
 ⸻
